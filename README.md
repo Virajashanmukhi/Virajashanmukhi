@@ -2,7 +2,7 @@
 
 🎓 I am currently pursuing Electronics and Communication Engineering (ECE) student with strong interest in software.
 
-💻 Skilled in HTML, CSS, C, Python, and Java. Hands-on experience in Arduino and IoT-based projects.
+💻 Skilled in HTML, CSS, C, Python, and Java. Hands-on experience in Arduino ,IoT-based projects and Web Development projects.
 
 📊 Developed data analysis and GUI-based Python applications.
 
