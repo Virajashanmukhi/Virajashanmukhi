@@ -19,35 +19,35 @@ I enjoy working with data to identify trends, understand customer behavior, find
 ---
 📊 Projects
 
-🔹 SQL Business Case Study
+🔹 **SQL Business Case Study**
 
 End-to-end business analysis using MySQL and advanced SQL to identify trends, performance issues, and actionable insights.
 
-🔹 A/B Testing Analysis
+🔹 **A/B Testing Analysis**
 
 Analyzed an A/B experiment using hypothesis testing, conversion rate analysis, z-test, and t-test.
 
-🔹 Sales Analysis Dashboard
+🔹 **Sales Analysis Dashboard**
 
 Interactive Power BI dashboard analyzing sales, profit, products, customers, regions, discounts, and business trends.
 
-🔹 RFM Customer Analysis
+🔹 **RFM Customer Analysis**
 
 Used Python and Power BI to analyze customer purchasing behavior and perform RFM-based customer segmentation.
 
-🔹 Ride-Sharing Analysis
+🔹 **Ride-Sharing Analysis**
 
 Analyzed booking trends, cancellations, customer behavior, vehicle performance, and operational issues using Python, Excel, and Power BI.
 
-🔹 Car Price Prediction
+🔹 **Car Price Prediction**
 
 Independent machine learning project using Python and Linear Regression to predict car prices.
 
-🔹 Hotel Booking Analysis
+🔹 **Hotel Booking Analysis**
 
 Power BI dashboard analyzing hotel booking data and key business metrics.
 
-🔹 Hotel Management System
+🔹 **Hotel Management System*
 
 Desktop application developed using Python, Tkinter, and MySQL
 
@@ -60,7 +60,7 @@ I’m looking for an entry-level Data Analyst opportunity where I can apply my s
 
 📫 Connect With Me
 
-- 🐙 GitHub: [Add your GitHub URL]
+- 🐙 GitHub:(https://github.com/Virajashanmukhi)]
 
 ---
 
